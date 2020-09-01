@@ -1,3 +1,13 @@
+/***************************************************************************************
+*    Title: StdDraw source code
+*    Authors: Robert Sedgewick and Kevin Wayne
+*    Date: May 24, 2020
+*    Code version: N/A
+*    Availability: https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java.html
+*
+***************************************************************************************/
+
+
 /******************************************************************************
  *  Compilation:  javac StdDraw.java
  *  Execution:    java StdDraw
